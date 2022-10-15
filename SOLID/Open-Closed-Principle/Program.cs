@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+
+using Open_Closed_Principle_IdealCode;
+
+ParaGonderici paraGonderici = new();
+paraGonderici.Gonder(new Garanti(),500,"asf");
