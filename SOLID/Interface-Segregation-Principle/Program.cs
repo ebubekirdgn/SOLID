@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Interface_Segregation_Principle_NotIdealCode;
+
+SamsungPrinter samsungPrinter = new ();
