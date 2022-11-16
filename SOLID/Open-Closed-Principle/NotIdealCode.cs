@@ -1,5 +1,10 @@
-﻿namespace Open_Closed_Principle_NotIdealCode;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
+namespace Open_Closed_Principle_NotIdealCode;
 class ParaGonderici
 {
     public void Gonder(int tutar)
@@ -7,32 +12,27 @@ class ParaGonderici
         //Garanti garanti = new();
         //garanti.HesapNo = "...";
         //garanti.ParaGonder(tutar);
-
-        HalkBank halkBank = new();
-        halkBank.GonderilecekHesapNo("12345");
-        halkBank.Gonder(tutar);
+        Halkban halkban = new();
+        halkban.GonderilecekHesapNo("123");
+        halkban.Gonder(tutar);
     }
 }
 
 class Garanti
 {
     public string HesapNo { get; set; }
-
     public void ParaGonder(int tutar)
     {
         //...
     }
 }
-
-class HalkBank
+class Halkban
 {
-    private string _hesapNo;
-
-    public void GonderilecekHesapNo(string amount)
+    string _hesapNo;
+    public void GonderilecekHesapNo(string hesapNo)
     {
         //...
     }
-
     public void Gonder(int tutar)
     {
         //...

@@ -1,0 +1,15 @@
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\bin\Debug\net6.0\Interface-Segregation-Principle.exe
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\bin\Debug\net6.0\Interface-Segregation-Principle.deps.json
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\bin\Debug\net6.0\Interface-Segregation-Principle.runtimeconfig.json
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\bin\Debug\net6.0\Interface-Segregation-Principle.dll
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\bin\Debug\net6.0\Interface-Segregation-Principle.pdb
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\obj\Debug\net6.0\Interface-Segregation-Principle.csproj.AssemblyReference.cache
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\obj\Debug\net6.0\Interface-Segregation-Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\obj\Debug\net6.0\Interface-Segregation-Principle.AssemblyInfoInputs.cache
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\obj\Debug\net6.0\Interface-Segregation-Principle.AssemblyInfo.cs
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\obj\Debug\net6.0\Interface-Segregation-Principle.csproj.CoreCompileInputs.cache
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\obj\Debug\net6.0\Interface-Segregation-Principle.dll
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\obj\Debug\net6.0\refint\Interface-Segregation-Principle.dll
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\obj\Debug\net6.0\Interface-Segregation-Principle.pdb
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\obj\Debug\net6.0\Interface-Segregation-Principle.genruntimeconfig.cache
+C:\Users\codemachine\Documents\GitHub\SOLID\SOLID\Interface-Segregation-Principle\obj\Debug\net6.0\ref\Interface-Segregation-Principle.dll
